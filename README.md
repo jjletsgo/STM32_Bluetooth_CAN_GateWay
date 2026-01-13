@@ -12,5 +12,5 @@ Develping Bluetooth_CAN_GateWay with STM32F446 now
 + STM32 communicates with HC06 via UART Communication (as far as I know, 115200 bps is the max baudrate)
 + u can set basic parameter of bluetooth com via UART Communication as well (u can find related inforamtion at Datasheet of HC06)  
 Before using this , I highly recommend you to read reference manual of STM32F446 describing built-in CAN Controller.
-
++ for CAN, I posted one in my VELOG(https://velog.io/@yun_study/Stm32F446-CAN-%ED%86%B5%EC%8B%A0-%EC%9D%B4%EB%A1%A0)
 
