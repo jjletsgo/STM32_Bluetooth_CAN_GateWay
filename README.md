@@ -1,5 +1,6 @@
 # STM32_Bluetooth_CAN_GateWay
-develping bluetooth_can_gateway with STM32F446 now
+Develping Bluetooth_CAN_GateWay with STM32F446 now 
+(actually, it's part of PBL Project making tactical UGV)
 
 # HW
 + MCU : STM32F446 (specific name of the board : NUCLEOF446RE)
